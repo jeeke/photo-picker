@@ -1,0 +1,8 @@
+{
+  "name": "PhotoPicker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "34d7c72e"
+}
